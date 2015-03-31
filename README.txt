@@ -1,0 +1,1 @@
+Tøída která nám umožní lehèí tvoøení nadpisù, odkazù, obrázkù a jinných textù. u obrázku a odkazu se nastavuje jeho zdroj nebo jeho odkaz a pak ještì popisek (ALT). Pøíhlad použití je v example.php.
